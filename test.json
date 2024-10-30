@@ -1,6 +1,6 @@
 {
     "expenses": [
-        { "time": "2024-10-01", "category": "食品", "price": 150 },
+        { "time": "2024-10-01", "category": "餐飲", "price": 150 },
         { "time": "2024-10-05", "category": "交通", "price": 200 },
         { "time": "2024-10-10", "category": "娛樂", "price": 300 }
     ],
