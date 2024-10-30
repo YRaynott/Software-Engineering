@@ -6,7 +6,7 @@
     ],
     "income": [
         { "time": "2024-10-15T10:00", "category": "薪水", "price": 3000 },
-        { "time": "2024-10-20T23:30", "category": "兼職", "price": 500 }
+        { "time": "2024-10-30T23:30", "category": "兼職", "price": 500 }
     ],
     "totalExpenses": 650,
     "totalIncome": 3500
