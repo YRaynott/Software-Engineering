@@ -1,10 +1,10 @@
 [
-    { "time": "2024-11-03T17:50", "category": "娛樂", "price": -170, "type": "expense" },
+    { "time": "2024-11-03T17:50", "category": "娛樂", "price": -170, "type": "expense", "remark": "小月卡" },
     { "time": "2024-11-03T11:30", "category": "餐飲", "price": -150, "type": "expense" },
-    { "time": "2024-11-01T18:25", "category": "交通", "price": -200, "type": "expense" },
+    { "time": "2024-11-01T18:25", "category": "交通", "price": -200, "type": "expense", "remark": "悠遊卡" },
     { "time": "2024-10-10T14:07", "category": "娛樂", "price": -300, "type": "expense" },
     { "time": "2024-09-30T20:15", "category": "餐飲", "price": -200, "type": "expense" },
-    { "time": "2024-11-02T18:25", "category": "餐飲", "price": -500, "type": "expense" },
+    { "time": "2024-11-02T18:25", "category": "餐飲", "price": -500, "type": "expense", "remark": "火鍋" },
     { "time": "2024-11-02T10:00", "category": "薪水", "price": 5000, "type": "income" },
     { "time": "2024-10-30T23:30", "category": "兼職", "price": 500, "type": "income" }
 ]
