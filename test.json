@@ -17,7 +17,7 @@
         "id": "8",
         "price": -170,
         "recurrenceEndDate": "2025-03-01",
-        "recurrenceType": "daily",
+        "recurrenceType": "monthly",
         "remark": "小月卡",
         "time": "2024-11-03T17:50"}},
     {"account": {
