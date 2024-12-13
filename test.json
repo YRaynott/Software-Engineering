@@ -30,8 +30,15 @@
         "remark": "",
         "time": "2024-11-03T11:30"},
     "recurringAccount": null },
-    {"account": { "accType": "expense", "attach": null, "attachURL": null, "category": "餐飲", "id": "6", "price": -500,
-        "remark": "火鍋", "time": "2024-11-02T18:25"},
+    {"account": {
+        "accType": "expense",
+        "attach": null,
+        "attachURL": null,
+        "category": "餐飲",
+        "id": "6",
+        "price": -500,
+        "remark": "火鍋",
+        "time": "2024-11-02T18:25"},
     "recurringAccount": null },
     {"account":{
         "accType": "income",
