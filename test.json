@@ -92,7 +92,7 @@
         "time": "2024-10-10T14:07"},
     "recurringAccount": null },
     {"account":{
-        "accType": "income",
+        "accType": "expense",
         "attach": null,
         "attachURL": null,
         "category": "餐飲",
